@@ -14,6 +14,10 @@ async
 2.18
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/async-2.11.0/
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/async-2.11.0/lib/
+auto_size_text
+2.12
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/auto_size_text-3.0.0/
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/auto_size_text-3.0.0/lib/
 boolean_selector
 2.17
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1/
@@ -42,6 +46,10 @@ convert
 2.18
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/convert-3.1.1/
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/convert-3.1.1/lib/
+country_provider2
+2.14
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/country_provider2-1.0.2+4/
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/country_provider2-1.0.2+4/lib/
 crypto
 2.19
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/crypto-3.0.3/
@@ -102,6 +110,10 @@ flutter_easyloading
 2.12
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/flutter_easyloading-3.0.5/
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/flutter_easyloading-3.0.5/lib/
+flutter_holo_date_picker
+2.12
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/flutter_holo_date_picker-1.1.0/
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/flutter_holo_date_picker-1.1.0/lib/
 flutter_launcher_icons
 2.18
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/flutter_launcher_icons-0.13.1/
@@ -146,6 +158,10 @@ html
 2.17
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/html-0.15.3/
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/html-0.15.3/lib/
+http
+2.19
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/http-0.13.6/
+file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/http-0.13.6/lib/
 http_parser
 2.12
 file:///Users/amirabenaissa/.pub-cache/hosted/pub.dev/http_parser-4.0.2/

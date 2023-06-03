@@ -1,4 +1,4 @@
-import 'package:by_by_cedit/app/auth/login/screens/login-screen.dart';
+import 'package:by_by_cedit/app/auth/main-login/screens/main-login-screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_easyloading/flutter_easyloading.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -9,14 +9,12 @@ import '../config/translation/translation.dart';
 import '../routes/app_pages.dart';
 
 class ByByCredit extends StatelessWidget {
-  const ByByCredit({Key? key})
-      : super(key: key);
-
+  const ByByCredit({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
-      designSize: const Size(360, 800),
+      designSize: const Size(375, 840),
       minTextAdapt: true,
       splitScreenMode: true,
       builder: (BuildContext context, Widget? child) {
@@ -28,7 +26,7 @@ class ByByCredit extends StatelessWidget {
           locale: const Locale('fr', 'FR'),
           initialBinding: Binding(),
           smartManagement: SmartManagement.keepFactory,
-          home: LoginScreen(),
+          home: MainLoginScreen(),
           builder: EasyLoading.init(),
         );
       },

@@ -32,16 +32,13 @@ class Header extends StatelessWidget {
           ),
           GestureDetector(
             onTap: () => Get.back(),
-            child: Padding(
-              padding: const EdgeInsets.only(left: 24),
-              child: Align(
-                alignment: Alignment.centerLeft,
-                child: Image.asset(
-                  AppImages.arrowBack,
-                  height: 20.h,
-                  width: 20.h,
-                  fit: BoxFit.contain,
-                ),
+            child: Align(
+              alignment: Alignment.centerLeft,
+              child: Image.asset(
+                AppImages.arrowBack,
+                height: 20.h,
+                width: 20.h,
+                fit: BoxFit.contain,
               ),
             ),
           ),
